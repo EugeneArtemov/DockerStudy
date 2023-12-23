@@ -1,4 +1,4 @@
- Лабораторная работа №6
+# Лабораторная работа №6
 1. Перед созданием приложения, предварительно установив node.js, создаем Dockerfile, nginx.conf и docker-compose.yml
    
   ![Alt text](image.png)
